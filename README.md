@@ -26,7 +26,7 @@ Clone this repository and open `index.html` in your browser:
 git clone https://github.com/samithreddychinni/Instant-WiFi-QR.git
 cd Instant-WiFi-QR
 open index.html
-
+```
 ## 🌍 Live Demo  
 🚀 **[Try It Here](https://samithreddychinni.github.io/Instant-WiFi-QR/)** 🚀  
 
@@ -35,4 +35,5 @@ This project is open-source and available under the [MIT License.](https://docs.
 
 👤 Author
 [Samith Reddy Chinni](https://github.com/samithreddychinni/samithreddychinni)
+
 
