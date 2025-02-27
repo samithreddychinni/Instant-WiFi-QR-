@@ -28,7 +28,7 @@ cd Instant-WiFi-QR
 open index.html
 ```
 ## 🌍 Live Demo  
-🚀 **[Try It Here](https://samithreddychinni.github.io/Instant-WiFi-QR/)** 🚀  
+🚀 **[Try It Here](https://samithreddychinni.github.io/Instant-WiFi-QR-/)** 🚀  
 
 📜 License
 This project is open-source and available under the [MIT License.](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
